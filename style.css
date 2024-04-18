@@ -1,0 +1,229 @@
+
+body{
+    overflow: hidden;
+}
+.header{
+    
+    height: 40px;
+    width: 210px;
+    right: 0%;
+    margin-right: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+}
+
+.sub{
+    
+    height: 100%;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sub-span{
+    font-family: "Barlow", sans-serif;
+    font-weight: 400;
+    margin: 5px;
+    margin-bottom: 8px;
+}
+
+.sub-span:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.img-sub{
+    
+    height: 100%;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.apps{
+    margin-left: 25px;
+}
+
+
+.account{
+    margin-right: 10px;
+    border-radius: 100%;
+    font-size: 22px;
+}
+
+.material-symbols-outlined{
+    color: gray;
+    font-size: 23px;
+    cursor: pointer;
+}
+
+.apps:hover{
+    background-color: rgb(221, 221, 221);
+    cursor: pointer;
+    border-radius: 15px;
+}
+
+.logo{
+    height: 300px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.g-logo{
+    margin-top: 84px;
+}
+
+.search-bar{
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    height: 40px;
+    border-radius: 40px;
+    width: 600px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.search-content{
+    outline:none;
+    width: 100%;
+    height: 85%;
+    border: none;
+    border-radius: 40px;
+    font-size: 18px;
+    font-family: "Barlow", sans-serif;
+    font-weight: 400;
+    
+
+
+
+}
+
+.input-div{
+    width: 90%;
+    height: 100%;
+    
+    
+}
+
+.search-button{
+    
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width:7%;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.pesquisar:hover{
+    color: black;
+}
+
+.buttons{
+    
+    height: 37px;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.buttons-extra{
+    height: 100%;
+    width: 140px;
+    border: none;
+    background-color: rgb(240, 237, 237);
+    border-radius: 2px;
+    margin: 20px;
+    font-size: 16px;
+    font-family: "Barlow", sans-serif;
+    font-weight: 400;
+}
+
+.buttons-extra:hover{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    cursor: pointer;
+}
+
+.message-extra{
+    height: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    color: blue;
+}
+
+.message-extra a{
+    text-decoration:none;
+    border-radius: 40px;
+    font-size: 17px;
+    font-family: "Barlow", sans-serif;
+    font-weight: 400;
+}
+
+.message-extra a:hover{
+    text-decoration: underline;
+}
+
+.end{
+    border-radius: 5px;
+    background-color: rgb(242, 242, 242);
+    height: 100px;
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 402px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+} 
+
+.parts{
+    height: 50%;
+    width: 100%;
+}
+
+.part1{
+    border-bottom: 1px solid rgb(191, 191, 191);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 17px;
+    font-family: "Barlow", sans-serif;
+    font-weight: 400;
+}
+
+.part2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 30px;
+    font-size: 17px;
+    font-family: "Barlow", sans-serif;
+    font-weight: 400;
+}
+.part1 span{
+    margin: 30px;
+}
+
+.nome:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
